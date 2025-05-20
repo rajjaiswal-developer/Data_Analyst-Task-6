@@ -15,6 +15,9 @@ This project focuses on analyzing monthly sales revenue and order volumes using 
 - **Tables Used:**
   - `orders` (`order_id`, `order_date`, `amount`, `product_id`)
   - `products` (`product_id`, `product_name`, `category`, `price`) *(used for extended analysis)*
+- **Note:**  
+CSV files for both tables (`orders.csv` and `products.csv`) are also uploaded in this repository for easy reference or reuse.
+
 ---
 
 ##  Objective
